@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Honto（feat. Watson）",
+  "base_artist": "IO",
+  "createdAt": "2026-02-21T16:38:58.124825Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Honto feat. Watson",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_01_Honto_feat._Watson_I_O.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Honto",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_02_Honto_I_O.txt"
+    }
+  ]
+}
